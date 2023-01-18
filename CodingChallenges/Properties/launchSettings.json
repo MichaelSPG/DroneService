@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DroneServices": {
+      "commandName": "Project",
+      "commandLineArgs": "Input.txt"
+    }
+  }
+}
